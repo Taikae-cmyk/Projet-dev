@@ -1,0 +1,4 @@
+﻿CMakeCXXCompilerId.obj : error LNK2005: _main déjà défini(e) dans Main.obj
+CMakeCCompilerId.obj : error LNK2005: _main déjà défini(e) dans Main.obj
+Debug\main.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+C:\Users\taika\Desktop\SpaceInvaders-master\Debug\SpaceInvaders.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
